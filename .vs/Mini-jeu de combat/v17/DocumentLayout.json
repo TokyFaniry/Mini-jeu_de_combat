@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Volahanitra\\source\\repos\\Mini-jeu de combat\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{CC1D5E14-499E-4AC0-A201-809B830E38DD}|Mini-jeu de combat\\Mini-jeu_de_combat.csproj|c:\\users\\volahanitra\\source\\repos\\mini-jeu de combat\\mini-jeu de combat\\guerrier.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CC1D5E14-499E-4AC0-A201-809B830E38DD}|Mini-jeu de combat\\Mini-jeu_de_combat.csproj|solutionrelative:mini-jeu de combat\\guerrier.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC1D5E14-499E-4AC0-A201-809B830E38DD}|Mini-jeu de combat\\Mini-jeu de combat.csproj|c:\\users\\volahanitra\\source\\repos\\mini-jeu de combat\\mini-jeu de combat\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CC1D5E14-499E-4AC0-A201-809B830E38DD}|Mini-jeu de combat\\Mini-jeu de combat.csproj|solutionrelative:mini-jeu de combat\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Guerrier.cs",
+              "DocumentMoniker": "C:\\Users\\Volahanitra\\source\\repos\\Mini-jeu de combat\\Mini-jeu de combat\\Guerrier.cs",
+              "RelativeDocumentMoniker": "Mini-jeu de combat\\Guerrier.cs",
+              "ToolTip": "C:\\Users\\Volahanitra\\source\\repos\\Mini-jeu de combat\\Mini-jeu de combat\\Guerrier.cs",
+              "RelativeToolTip": "Mini-jeu de combat\\Guerrier.cs",
+              "ViewState": "AQIAAEQAAAAANDMzMzMbwAoAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-11T06:48:13.19Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Volahanitra\\source\\repos\\Mini-jeu de combat\\Mini-jeu de combat\\Program.cs",
+              "RelativeDocumentMoniker": "Mini-jeu de combat\\Program.cs",
+              "ToolTip": "C:\\Users\\Volahanitra\\source\\repos\\Mini-jeu de combat\\Mini-jeu de combat\\Program.cs",
+              "RelativeToolTip": "Mini-jeu de combat\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-11T06:44:25.771Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

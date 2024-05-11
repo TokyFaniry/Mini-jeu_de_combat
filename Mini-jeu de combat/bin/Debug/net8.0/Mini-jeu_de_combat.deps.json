@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Mini-jeu_de_combat/1.0.0": {
+        "runtime": {
+          "Mini-jeu_de_combat.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Mini-jeu_de_combat/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
